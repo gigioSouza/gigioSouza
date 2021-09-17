@@ -2,6 +2,11 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Giovane's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=gigioSouza&count_private=true&show_icons=true&bg_color=2c363f&border_color=00D8DE&title_color=00A5FF&icon_color=00D8DE&text_color=50ffb1" />
   </a>
+</div>
+
+<br/>
+
+<div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="Giovane's GitHub Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigioSouza&layout=compact&bg_color=2c363f&border_color=00D8DE&title_color=00A5FF&icon_color=00D8DE&text_color=50ffb1" />
   </a>
